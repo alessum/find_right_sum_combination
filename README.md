@@ -5,3 +5,4 @@ adder.ipynb is the main and it is where the algorithm is explained
 tools.ipynb is where the functions are created
 
 Hope everything is clear enough ;)
+<image src="/circuit_tester.pdf"/>
