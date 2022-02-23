@@ -35,13 +35,8 @@ In this way the first addendum is 'virtual', it is embedded in this procedure.
 Then we iterate the same for the $2$ and the $1$. 
 
 In correspondance to $|1--\rangle$, we are adding to the $2^{nd}$ register the state:
-\begin{equation}
-\begin{split}
-\otimes_{k=0}^{n}\frac{1}{\sqrt{2}}\left(|0\rangle_k + e^{2\pi i (3/2^k)}|1\rangle_k\right) = & \frac{1}{\sqrt{2^n}}\sum_{j=0}^{2^n-1} e^{2\pi i (3j)/2^n}|j\rangle\\ 
-= & \frac{1}{\sqrt{8}}\left(|000\rangle + e^{2\pi i (3/8)}|001\rangle+e^{2\pi i (6/8)}|010\rangle+e^{2\pi i (9/8)}|011\rangle\\+e^{2\pi i (12/8)}|100\rangle+e^{2\pi i (15/8)}|101\rangle+e^{2\pi i (2/8)}|110\rangle+e^{2\pi i (5/8)}|111\rangle\right)\\
-= & QFT|3\rangle
-\end{split}
-\end{equation} 
+<image src="/eq1.png" alt="drawing" width="500"/>
+
 where $n$, the number of items in the list, is $n=3$. 
 
 In the same way, with $|-1-\rangle$, we will add $QFT|2\rangle$ and then with $|--1\rangle$, $QFT|1\rangle$.
