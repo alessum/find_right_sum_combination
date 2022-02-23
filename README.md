@@ -5,4 +5,4 @@ The job is divided into 2 python notebooks:
 <code>tools.ipynb</code> is where the functions are created
 
 Hope everything is clear enough ;)
-<image src="/circuit_tester.pdf"/>
+<image src="/circuit_tester.png"/>
