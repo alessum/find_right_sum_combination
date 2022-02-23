@@ -43,7 +43,7 @@ In the same way, with <image src="/eqs/circuit_tester(17).png" width="6%"/>, we 
 
 In correspondence of the state <image src="/eqs/circuit_tester(22).png" width="6%"/> in the  <image src="/eqs/circuit_tester(4).png" width="3%"/> register, the second register will be in
 
-<image src="/eqs/circuit_tester(23).png" width="45%"/>
+<image src="/eqs/circuit_tester(23).png" width="60%"/>
 
 Therefore, by appling a <image src="/eqs/circuit_tester(24).png" width="5%"/> to the <image src="/eqs/circuit_tester(8).png" width="3.5%"/> register, we get (3+1), namely the state <image src="/eqs/circuit_tester(25).png" width="9%"/>.
 
