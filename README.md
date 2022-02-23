@@ -21,7 +21,8 @@ The algorithm has 2 registers:
   <li> To collect possible sums of combinations of items from <code>numbers</code>. Its length is <img src="https://render.githubusercontent.com/render/math?math==\log_2\left(\sum_{i\in numbers} i\right)"></li> to be able to describe any possible combination.
 </ol>
    
-<image src="/circuit_tester.png"/>
+<image src="/circuit_scheme_w.png" #gh-light-mode-only/>
+<image src="/circuit_scheme_b.png" #gh-dark-mode-only/>
 
 The **SEL** gate select the set of combinations we want to test. We implemented the *Hadamard transform* <image src="/eqs/circuit_tester(2).png" width="9%"/> (namely all the possible combinations) the *W state* <image src="/eqs/circuit_tester(1).png" width="15%"/> [<sup id="fn1-back">1</sup>](#fn1 "meaning of (\ell)")(one number at a time) or *W state+X* <image src="/eqs/circuit_tester(3).png" width="15%"/> (neglecting one number at a time).
 In this way, we create an overlap of some possible combinations of items from <code>numbers</code> on the <image src="/eqs/circuit_tester(4).png" width="3%"/> register. 
