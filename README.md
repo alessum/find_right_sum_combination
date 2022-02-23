@@ -8,5 +8,6 @@ The job is divided into 2 python notebooks:
 
   
 I tried to find the simplest and most shallow circuit. It seems it works fine.
-Hope everything is clear enough ;)
+
+Hope everything is clear enough
 <image src="/circuit_tester.png"/>
