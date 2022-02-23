@@ -7,7 +7,7 @@ The job is divided into 2 python notebooks:
 </ol>
 
   
-I tried to find the simplest and most shallow circuit. It seems it works fine.
+I tried to find the simplest and most shallow circuit.
 
 Hope everything is clear enough
 <image src="/circuit_tester.png"/>
