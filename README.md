@@ -9,9 +9,7 @@ The job is divided into 2 python notebooks:
   
 I tried to find the simplest and most shallow circuit.
 
-Hope everything is clear enough
-
-(*unfortunately the equations are black so it is possible to view them in light theme*)
+**Disclamer:** *since latex is not supperted on github markdown files, the final results is not seems a bit a patchwork but I hope is clear enough*
     
         
 ## Explanation of the algorithm:
