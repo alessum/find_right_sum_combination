@@ -4,6 +4,7 @@ The job is divided into 2 python notebooks:
 <ol>
   <li> <code>main.ipynb</code>: where the algorithm can be tested </li>
   <li> <code>tools.ipynb</code>: where the functions are created</li>
+  <li> <code>interactive.ipynb</code>: where a widget is created to make the script more user-friendly</li>
 </ol>
 
   
